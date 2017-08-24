@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/public/authentication/authentication.service.js" />
+        <item url="file://$PROJECT_DIR$/dist/public/app.config.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/authentication/login.ctrl.js" />
+      <root url="file://$PROJECT_DIR$/dist/authentication/register.ctrl.js" />
+      <root url="file://$PROJECT_DIR$/dist/app.config.js" />
+      <root url="file://$PROJECT_DIR$/dist/app.js" />
+      <root url="file://$PROJECT_DIR$/dist/app.routes.js" />
+      <root url="file://$PROJECT_DIR$/dist/authentication/authentication.service.js" />
+      <root url="file://$PROJECT_DIR$/dist/authentication/login.ctrl.js" />
+      <root url="file://$PROJECT_DIR$/dist/authentication/register.ctrl.js" />
+      <root url="file://$PROJECT_DIR$/dist/app.config.js" />
+      <root url="file://$PROJECT_DIR$/dist/app.js" />
+      <root url="file://$PROJECT_DIR$/dist/app.routes.js" />
+      <root url="file://$PROJECT_DIR$/dist/authentication/authentication.service.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/authentication/authentication.service.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/app.config.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
